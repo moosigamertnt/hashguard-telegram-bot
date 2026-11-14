@@ -1,0 +1,1 @@
+"""Telegram password hasher bot."""
